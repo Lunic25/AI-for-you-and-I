@@ -1,0 +1,11 @@
+openai
+anthropic
+langchain
+llama-index
+qdrant-client
+sentence-transformers
+pymupdf
+python-dotenv
+fastapi
+uvicorn
+tqdm
